@@ -1,0 +1,10 @@
+{
+    "region": "us-east-1",
+    "aws_id": "aws_id_owner",
+    "name_topic": "GlacierExample",
+    "name_vault": "GlacierExample",
+    "tags": {
+        "Terraform": true,
+        "Name": "GlacierExample"
+    }
+}
